@@ -1,0 +1,364 @@
+<html>
+	<head>
+		<title>Three.js Boilerplate</title>
+		<style>
+			body { margin: 0; 
+			background-color:black;
+			overflow:hidden;}
+			canvas { width: 100%; height: 100% }
+			
+			.nav_bar{
+			
+			background-color:black;
+			
+			}
+			.nav_bar ul li a{
+			color:white;}
+			
+			.test {
+    background-color: transparent;
+    position: fixed;
+    top: 31px;
+    color: white;
+    left: 154px;
+    font-size: 22px;
+	text-decoration:none;
+}
+
+
+
+.testm{float: right;
+    visibility: hidden;}
+
+li {
+display: inline-block;
+word-spacing:1rem;}
+
+
+.test1{color: white;
+background-color: transparent;
+
+
+position:fixed;
+right:279px;
+
+}
+
+
+.test2{color: white;
+position:fixed;
+right:279px;
+
+background-color: black;
+
+
+}
+
+.test3{color: white;background-color: black;
+
+position:fixed;
+right:279px;
+
+}
+
+
+
+
+@media only screen and (max-width: 600px) {
+ 
+}
+
+
+
+
+
+
+
+				
+				
+				#menu__toggle {
+  opacity: 0;
+}
+
+.hamburger-menu{
+background-color:black;}
+
+#menu__toggle:checked ~ .menu__btn > span {
+  transform: rotate(45deg);
+}
+#menu__toggle:checked ~ .menu__btn > span::before {
+  top: 0;
+  transform: rotate(0);
+}
+#menu__toggle:checked ~ .menu__btn > span::after {
+  top: 0;
+  transform: rotate(90deg);
+}
+#menu__toggle:checked ~ .menu__box {
+  visibility: visible;
+  left: 0;
+}
+
+.menu__btn {
+  display: flex;
+  align-items: center;
+  position: fixed;
+  top: 34px;
+  left: 20px;
+
+  width: 26px;
+  height: 26px;
+
+  cursor: pointer;
+  z-index: 1;
+}
+
+.menu__btn > span,
+.menu__btn > span::before,
+.menu__btn > span::after {
+  display: block;
+  position: absolute;
+
+  width: 100%;
+  height: 2px;
+
+  background-color: #616161;
+
+  transition-duration: .25s;
+}
+.menu__btn > span::before {
+  content: '';
+  top: -8px;
+}
+.menu__btn > span::after {
+  content: '';
+  top: 8px;
+}
+
+.menu__box {
+  display: block;
+  position: fixed;
+  visibility: hidden;
+  top: 0;
+  left: -100%;
+
+  width: 300px;
+  height: 100%;
+
+  margin: 0;
+  padding: 80px 0;
+
+  list-style: none;
+
+  background-color: #ECEFF1;
+  box-shadow: 1px 0px 6px rgba(0, 0, 0, .2);
+
+  transition-duration: .25s;
+}
+
+.menu__item {
+  display: block;
+  padding: 12px 24px;
+
+  color: #333;
+
+  font-family: 'Roboto', sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+
+  text-decoration: none;
+
+  transition-duration: .25s;
+}
+.menu__item:hover {
+  background-color:white;
+}
+
+
+
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color:transparent;
+}
+
+li {
+  float: right;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 16px;
+  text-decoration: none;
+  font-size:22px;
+}
+
+li a:hover {
+  background-color: #111111;
+}
+
+	.text-box{
+	
+		overflow:hidden;
+	}
+	
+	.heading {
+    color: white;
+    position: fixed;
+    top: 50px;
+    left: 206px;
+    font-size: 25px;
+}
+	.cnt{
+    color: white;
+    position: fixed;
+    top: 50px;
+    left: 1192px;
+    font-size: 25px;
+}
+
+
+.abt{
+    color: white;
+    position: fixed;
+    top: 50px;
+    left: 1290px;
+    font-size: 25px;
+}
+
+
+.blg{
+color: white;
+    position: fixed;
+    top: 50px;
+    left: 1375px;
+    font-size: 25px;
+
+
+
+}
+
+
+@media only screen and (max-width: 600px) {
+
+.cnt{
+    color: white;
+    position: fixed;
+    top: 50px;
+    left: 634px;
+    font-size: 25px;
+}
+
+
+.abt{
+    color: white;
+    position: fixed;
+    top: 50px;
+    left: 747px;
+    font-size: 25px;
+}
+
+
+.blg{
+color: white;
+    position: fixed;
+    top: 50px;
+    left: 825px;
+    font-size: 25px;
+
+
+
+}
+
+
+ 
+}
+
+
+
+
+
+
+
+		</style>
+	</head>
+	<body>
+	
+	
+	
+	<!--startin gmen uhere -->
+	
+	<!--<div class="hamburger-menu">
+    <input id="menu__toggle" type="checkbox" />
+    <label class="menu__btn" for="menu__toggle">
+      <span></span>
+    </label>
+
+    <ul class="menu__box">
+      <li><a class="menu__item" href="#">Главная</a></li>
+			<li><a class="menu__item" href="#">Проекты</a></li>
+			<li><a class="menu__item" href="#">Команда</a></li>
+			<li><a class="menu__item" href="#">Блог</a></li>
+			<li><a class="menu__item" href="#">Контакты</a></li>
+    </ul>
+  </div>
+  
+  <!--ending menu here -->
+	
+	
+	
+	
+	<div class="text-box">
+	
+	<div class="heading">techiemonk</div>
+	
+	</div>
+	
+	
+	<div class="text-box">
+	
+	<div class="cnt">contact</div>
+	
+	</div>
+	
+	<div class="text-box">
+	
+	<div class="abt">about</div>
+	
+	</div>
+	
+	
+	<div class="text-box">
+	
+	<div class="blg">blog</div>
+	
+	</div>
+	<!--<nav class="nav_bar">
+	<ul>
+	<li><a href="#">hey</a></li>
+	<li><a href="#">Hoo</a></li>
+	
+	
+	</ul>
+	
+	
+	</nav>-->
+	
+	
+	
+	
+	
+	
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/87/three.min.js"></script>
+		<script src="/assets/OrbitControls.js"></script>
+		<script src="/examples/3d-obj-loader/assets/OBJLoader.js"></script>
+		<script src="/examples/3d-obj-loader/assets/MTLLoader.js"></script>
+		<script src="/examples/3d-obj-loader/scripts.js"></script>
+	</body>
+</html>

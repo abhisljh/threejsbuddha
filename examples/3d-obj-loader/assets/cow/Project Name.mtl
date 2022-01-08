@@ -1,0 +1,191 @@
+newmtl Material.006_7239e011-6589-430e-8487-c8c8c348c9f3
+Kd 0.608 0.463 0.325
+d 1.000
+newmtl grass_25530a67-fe51-4b5c-87a7-d061e5f8a994
+Kd 0.608 0.463 0.325
+d 1.000
+newmtl grass2_953dd1c3-c54b-4048-9b95-ebf24ee0b49f
+Kd 0.608 0.463 0.325
+d 1.000
+newmtl Scene_-_Root.001_1a257edb-2a02-446d-ac32-4f07e121b41d
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd Gltf_Import.jpg
+newmtl Cow_mat_02029ee6-a984-4dee-a626-a89414cef271
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd Cow_BaseColor.jpg
+newmtl Cow_mat 4_938d23e1-5462-4a1e-8dc9-d0abe2315e74
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd Cow_BaseColor.jpg
+newmtl Cow_mat 1_0d46b4f9-9930-4b66-ab03-e7dd6c04ff5f
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd Cow_BaseColor.jpg
+newmtl Cow_mat 5_33733fc3-dd09-4cf4-8e20-255a653ef494
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd Cow_BaseColor.jpg
+newmtl Cow_mat 2_44d83bf5-b7f8-4f7d-8944-67adf84dacd2
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd Cow_BaseColor.jpg
+newmtl Cow_mat 3_c57f83e0-6e71-4488-a09c-12c51c5da73c
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd Cow_BaseColor.jpg
+newmtl BisonBeefalo_mat_16106baa-87e6-4532-a8ad-82bcdd9b7a34
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd BisonBeefalo_BaseColor.jpg
+newmtl BisonBeefalo_mat 2_96e281d0-6f35-415a-8e55-ff00d5a19614
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd BisonBeefalo_BaseColor.jpg
+newmtl BisonBeefalo_mat 1_d15e7eba-1406-420b-ba24-40eb56217c01
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd BisonBeefalo_BaseColor.jpg
+newmtl mat21_431ad9e6-b482-4458-9b69-299e8efe62fe
+Kd 1.000 1.000 1.000
+d 1.000
+newmtl mat16_6c82267d-52c9-43a7-8b5d-b68f5b9f78c8
+Kd 0.470 0.560 0.610
+d 1.000
+newmtl mat4_15954ce4-3a18-4f4b-9b4b-d59e097cf5f1
+Kd 0.000 0.740 0.830
+d 1.000
+newmtl mat3_7fb3e70b-0627-452c-bd81-dbee0b44ce71
+Kd 0.500 0.870 0.920
+d 1.000
+newmtl mat22_49c32ac7-3461-4cc0-8acf-39be60de89ae
+Kd 0.620 0.620 0.620
+d 1.000
+newmtl mat21 1_9f643f67-b98e-4bb2-9054-556d4293d25f
+Kd 1.000 1.000 1.000
+d 1.000
+newmtl mat16 1_3e49d119-75e0-41a0-bcd5-b3e2070616b6
+Kd 0.470 0.560 0.610
+d 1.000
+newmtl mat4 1_6a2852f9-fdc5-4365-ae28-aed50acd7f73
+Kd 0.000 0.740 0.830
+d 1.000
+newmtl mat3 1_219416bc-8ee2-4359-9a97-8f7fcd651b83
+Kd 0.500 0.870 0.920
+d 1.000
+newmtl mat22 1_9d8e2c36-926a-4601-890b-55321d16887d
+Kd 0.620 0.620 0.620
+d 1.000
+newmtl Mat_45b7227e-49c7-4e1e-9eef-dac7a86f1502
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd tree_texture.jpg
+newmtl Mat 2_4645ebd9-c7b7-40e1-b6bb-f3fd0d171aae
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd tree_texture.jpg
+newmtl Mat 3_cab03d14-40ed-4fce-957d-de1ef7bb7f15
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd tree_texture.jpg
+newmtl Mat 1_c89c7ea3-ffbe-4c21-ab3b-37bc39109082
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd tree_texture.jpg
+newmtl Material 3_6d24a2a1-35e7-4f77-86c6-27f9bc320267
+Kd 0.251 0.808 0.482
+d 1.000
+newmtl Material 5_83b29b7a-d99c-47ae-8acf-708f22ad96cc
+Kd 0.251 0.808 0.482
+d 1.000
+newmtl Material 6_47a68f62-29d9-4b1d-8139-5039c20b4cec
+Kd 0.251 0.808 0.482
+d 1.000
+newmtl Material 7_8e2d6ccb-95a8-44d8-8168-975b668fd73e
+Kd 0.251 0.808 0.482
+d 1.000
+newmtl Material 8_8020ed9d-84f1-4d8e-aa7d-35ff00d9a9bc
+Kd 0.251 0.808 0.482
+d 1.000
+newmtl Material 9_1f5e3c14-d122-4e01-b336-c46af15370d7
+Kd 0.251 0.808 0.482
+d 1.000
+newmtl Material 10_7e2c0d00-5149-4256-b4d9-2f7678914330
+Kd 0.251 0.808 0.482
+d 1.000
+newmtl Material 11_2d46ec4e-916a-4d17-bbbe-82a699aaa24f
+Kd 0.251 0.808 0.482
+d 1.000
+newmtl Material 12_6c3932a9-9e55-47ea-b702-0c8523d7b03c
+Kd 0.251 0.808 0.482
+d 1.000
+newmtl Material 13_c1e1e771-38a7-49dc-a059-a1a264470593
+Kd 0.251 0.808 0.482
+d 1.000
+newmtl Material 14_55449f7a-ea24-4470-863f-120650ee5091
+Kd 0.251 0.808 0.482
+d 1.000
+newmtl Material 15_204720f2-7b8e-4934-b330-76d5b01a1ccf
+Kd 0.251 0.808 0.482
+d 1.000
+newmtl Material 16_41da16f4-ea1f-41ee-8e0c-06017c5c2f0c
+Kd 0.251 0.808 0.482
+d 1.000
+newmtl Material 17_1b41c70d-3940-4c23-97c1-1890cb2a1229
+Kd 0.251 0.808 0.482
+d 1.000
+newmtl Material 18_f9eb393f-f142-4b04-8d4e-a806e3322ac6
+Kd 0.251 0.808 0.482
+d 1.000
+newmtl Material 19_1b4e08d2-bbe2-4415-a2f8-8aab77153b2c
+Kd 0.251 0.808 0.482
+d 1.000
+newmtl Material 20_a0343b65-3ea8-4d9a-859b-a1293a0cf910
+Kd 0.251 0.808 0.482
+d 1.000
+newmtl Material 21_422676bd-ffb7-4aa5-94c0-c5c79cc861f6
+Kd 0.251 0.808 0.482
+d 1.000
+newmtl Material 22_873846c2-f0c5-4b33-9d20-40116eaf7d5e
+Kd 0.251 0.808 0.482
+d 1.000
+newmtl Material 23_f6914b94-0fd6-454e-bd33-2d0613e8ea7b
+Kd 0.251 0.808 0.482
+d 1.000
+newmtl Material 24_20a57f67-0933-4e6f-bf3c-eab9b20f8672
+Kd 0.251 0.808 0.482
+d 1.000
+newmtl Material 25_87e22c54-1ad1-467d-803b-3cafaacf1208
+Kd 0.251 0.808 0.482
+d 1.000
+newmtl Material 26_bfbbbefc-6f29-4249-8cb5-2ce19cf7f5aa
+Kd 0.251 0.808 0.482
+d 1.000
+newmtl Material 27_737d2d12-0f7d-48a7-8c49-17405d91675c
+Kd 0.251 0.808 0.482
+d 1.000
+newmtl Material 28_9f7bd376-aaa0-4e53-a2a6-590ef4451e0a
+Kd 0.251 0.808 0.482
+d 1.000
+newmtl Material 29_05afae7a-d658-4984-8007-e33851b7745f
+Kd 0.251 0.808 0.482
+d 1.000
+newmtl Material 30_3614cb57-6bb5-4964-b651-0348353dc9af
+Kd 0.251 0.808 0.482
+d 1.000
+newmtl Material 31_615126ef-a45a-4734-96b2-df9c6f038e9d
+Kd 0.251 0.808 0.482
+d 1.000
+newmtl Material 32_d7f61b42-edb4-4a30-a738-c157a65e0e4d
+Kd 0.251 0.808 0.482
+d 1.000
+newmtl Material 33_994a5089-cfd8-4d59-879f-1be09f293d41
+Kd 0.251 0.808 0.482
+d 1.000
+newmtl Material 34_06fa61ee-a5f0-4514-964f-5137f5930c0b
+Kd 0.251 0.808 0.482
+d 1.000
+newmtl Material 4_a0874b60-db3b-4321-b5ef-bbe32b888358
+Kd 0.251 0.808 0.482
+d 1.000
